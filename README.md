@@ -5,4 +5,4 @@ Press the version you want
 
 Select a directory(Preferably your instance's mods folder)
 
-Done, for which version you have chosen, the mods mainstream for that version will be installed in the directory you have chosen. :)
+Done, for which version's buttton you have clicked on, the mods mainstream for that version will be installed in the directory you have chosen. :)
