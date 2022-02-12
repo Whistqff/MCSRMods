@@ -1,5 +1,5 @@
 # MCSRMods
-Ahk script to easily install all the mods for minecraft speedrunning.
+An ahk script to easily install all the mods for minecraft speedrunning. Currently supports 1.17.1, 1.16.1, 1.15.2, 1.14.4(More versions soon PauseMan)
 # Instructions
 Press the version you want
 
