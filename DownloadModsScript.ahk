@@ -1,4 +1,3 @@
-Gui, Add, Button, x9 y63 w58 h0 , Button
 Gui, Add, Button, x152 y19 w100 h30 , 1.17.1
 Gui, Add, Button, x22 y59 w100 h30 , 1.14.4
 Gui, Add, Button, x152 y59 w100 h30 , 1.15.2
