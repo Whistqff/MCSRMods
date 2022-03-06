@@ -1,4 +1,3 @@
-; Gui omega
 Gui, Add, Button, x9 y63 w58 h0 , Button
 Gui, Add, Button, x152 y19 w100 h30 , 1.17.1
 Gui, Add, Button, x22 y59 w100 h30 , 1.14.4
@@ -21,6 +20,7 @@ Button1.16.1:
    UrlDownloadToFile, https://github.com/RedLime/SpeedRunIGT/releases/download/5.19/SpeedRunIGT-5.19+1.16.1.jar, %instancemoddir116%\SpeedRunIGT 116.jar
    UrlDownloadToFile, https://github.com/jan-leila/FastReset/releases/download/1.16.5-1.0.0/fast-reset-1.16.5-v1.0.0.jar, %instancemoddir116%\FastReset 116.jar
 return
+
 Button1.17.1:
    FileSelectFolder, instancemoddir117, , 3
    If instancemoddir117 =
@@ -35,6 +35,7 @@ Button1.17.1:
    UrlDownloadToFile, https://github.com/RedLime/SpeedRunIGT/releases/download/5.19/SpeedRunIGT-5.19+1.17.1.jar, %instancemoddir117%\Speedrun igt 117.jar
    UrlDownloadToFile, https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC3/starlight-1.0.0-RC3+fabric.1.17.x.jar, %instancemoddir117%\Starlight 117.jar
 return
+
 Button1.14.4:
    FileSelectFolder, instancemoddir114, , 3
    If instancemoddir114 =
@@ -46,6 +47,7 @@ Button1.14.4:
    UrlDownloadToFile, https://cdn.discordapp.com/attachments/909268834760945677/941939987262369822/OptiFine_1.14.4_HD_U_G5.jar, %instancemoddir114%\Optifine 114.jar ; can't find a permanent link to optifine omega
    UrlDownloadToFile, https://media.forgecdn.net/files/2843/851/optifabric-0.7.1.jar, %instancemoddir114%\Optifabric 114.jar
 Return
+
 Button1.15.2:
    FileSelectFolder, instancemoddir115, , 3
    If instancemoddir115 =
